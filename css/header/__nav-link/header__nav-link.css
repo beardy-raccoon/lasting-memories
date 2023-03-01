@@ -1,0 +1,13 @@
+.header__nav-link {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 23px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.header__nav-link:hover {
+  opacity: .7;
+}

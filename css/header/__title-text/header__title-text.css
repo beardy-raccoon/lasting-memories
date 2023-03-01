@@ -1,0 +1,11 @@
+.header__title-text {
+  margin: 0;
+  text-align: left;
+}
+
+.header__title-text:first-of-type {
+  width: 301px;
+}
+.header__title-text:last-of-type {
+  width: 344px;
+}

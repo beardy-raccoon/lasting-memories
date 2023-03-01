@@ -1,0 +1,11 @@
+.about__text-content {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: space-between;
+  padding-left: 84px;
+  margin: 145px 0 107px 0;
+  min-width: 600px;
+  height: 466px;
+  color: #20201F;
+}
